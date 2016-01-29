@@ -14,8 +14,8 @@ def sum_nums(num)
     end
     #if num is greater than 1
     if num > 1
-    #return num + sum_nums(num-1)
-    return num + sum_nums(num-1)
+        #return num + sum_nums(num-1)
+        return num + sum_nums(num-1)
     end
 end
 
